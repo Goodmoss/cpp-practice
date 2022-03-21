@@ -1,6 +1,6 @@
 // 53페이지: 섭씨 화씨 변환하기
 // 섭씨온도 = 5/9*(화씨온도-32)
-
+ 
 #include <iostream>
 using namespace std;
 

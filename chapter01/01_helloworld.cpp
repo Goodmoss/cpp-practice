@@ -1,5 +1,5 @@
 #include <iostream>		
-//헤더 파일
+//헤더 파일   
 using namespace std;	//식별자
 
 int main()	//함수 선언
