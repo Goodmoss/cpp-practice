@@ -23,3 +23,4 @@
    + 배열
      + 성적 평균 구하기
      + 배열에서 최대값 찾기
+     + 구구단 https://goodmoss.tistory.com/7
